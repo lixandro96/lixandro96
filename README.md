@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lixandro96
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning python
 
 
 <!---
